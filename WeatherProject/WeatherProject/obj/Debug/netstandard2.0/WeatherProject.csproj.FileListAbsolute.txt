@@ -1,0 +1,16 @@
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.deps.json
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.dll
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\ref\WeatherProject.dll
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.pdb
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.dll
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\ref\WeatherProject.dll
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.pdb
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
