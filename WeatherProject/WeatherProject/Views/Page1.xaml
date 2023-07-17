@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherProject.Views.Page1"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#001C30">
+    <ContentPage.Content>
+        <Grid RowSpacing="20" Padding="0,80,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Source="dss.jpg" Grid.Row="1"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"    WidthRequest="130" Opacity=".5" BackgroundColor="Transparent"></Image>
+
+            <Image Source="night.png" Grid.Row="1" WidthRequest="210" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"      Opacity=".8" BackgroundColor="Transparent"></Image>
+
+            <Label  Grid.Row="2" Text="Dicover The Weather in your City" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="White" FontSize="25"></Label>
+            <Label Text="Get To Know Daily Weather and The weather forecast for the next four days" Grid.Row="3" TextColor="White" HorizontalTextAlignment="Center" FontSize="18"></Label>
+
+            <Entry Placeholder="Enter City" HorizontalTextAlignment="Center" PlaceholderColor="Gray" BackgroundColor="White" TextColor="#001C30" Grid.Row="4" 
+                   Keyboard="Text" ClearButtonVisibility="WhileEditing" 
+                   WidthRequest="290" HorizontalOptions="CenterAndExpand" x:Name="txtCountry"></Entry>
+            
+            <Button Text="Get Started" Margin="0,50,0,0" WidthRequest="300" HorizontalOptions="CenterAndExpand"  Grid.Row="5" TextTransform="None" FontSize="18"
+                    Clicked="Button_Clicked"
+        
+                    CornerRadius="30"  BackgroundColor="#F78812"></Button>
+     </Grid>
+    </ContentPage.Content>
+</ContentPage>
